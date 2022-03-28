@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kml-father-clock/static/css/main.4afbdcf4.css",
+    "main.js": "/kml-father-clock/static/js/main.51a16ad8.js",
+    "static/js/787.bd6b2dc0.chunk.js": "/kml-father-clock/static/js/787.bd6b2dc0.chunk.js",
+    "index.html": "/kml-father-clock/index.html",
+    "main.4afbdcf4.css.map": "/kml-father-clock/static/css/main.4afbdcf4.css.map",
+    "main.51a16ad8.js.map": "/kml-father-clock/static/js/main.51a16ad8.js.map",
+    "787.bd6b2dc0.chunk.js.map": "/kml-father-clock/static/js/787.bd6b2dc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4afbdcf4.css",
+    "static/js/main.51a16ad8.js"
+  ]
+}
